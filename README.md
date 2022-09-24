@@ -33,6 +33,7 @@ The project is about building a Desktop app to help the school manage rooms rese
 <p align="left">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">&emsp;
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&emsp;
+    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">&emsp;
 </p>
 
 <br>
