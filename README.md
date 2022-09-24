@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <em>This repository contains all my work-projects during the 1337-42Network pool</em>
+    <em>This repository contains the srcs of a Desktop app</em>
 </p>
 
 <p align="center">
