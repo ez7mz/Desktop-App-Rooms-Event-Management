@@ -6,22 +6,8 @@
     <em>This repository contains the srcs of a Desktop app</em>
 </p>
 
-<p align="center">
-  <a href="https://ez7mz.me" target="_blank">
-        <img src="./srcs/assets/badge-author.png" alt="School">
-  </a>&emsp;
-  <a href="https://ensak.usms.ac.ma/ensak/" target="_blank">
-        <img src="./srcs/assets/badge-school.png" alt="School">
-  </a>&emsp;
-  <a href="https://www.linkedin.com/in/ez7mz/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&emsp;
-  <a href="https://www.instagram.com/ez7m.z/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-</p>
-
 ---
+
 <br>
 
 # 💬 Description
